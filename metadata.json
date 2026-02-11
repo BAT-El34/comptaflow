@@ -1,0 +1,7 @@
+{
+  "name": "ComptaFlow AI - Automatisation Comptable",
+  "description": "Système multi-agents d'automatisation comptable pour l'import Sage 100, incluant extraction IA, vérification humaine et monitoring.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
